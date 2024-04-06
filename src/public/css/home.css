@@ -1,0 +1,25 @@
+html,h1 { 
+    font-family: century-gothic;
+    font-weight: 600;
+    font-style: normal;
+  }
+  body{
+    text-align: center;
+  }
+
+  h1{
+    background: linear-gradient(to right, #f32170, #ff6b08,#cf23cf, #eedd44);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+  }
+  #company{
+    background: linear-gradient(to right, #f32170, #ff6b08,#cf23cf, #eedd44);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    display: inline;
+  }
+
+  #footer{
+    position: absolute;
+    bottom: 0;
+  }
