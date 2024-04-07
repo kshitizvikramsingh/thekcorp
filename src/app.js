@@ -23,6 +23,9 @@ app.get("/products",(req,res)=>{
 app.get("/team",(req,res)=>{
     res.render("team")
 })
+app.get("/contact",(req,res)=>{
+    res.render("contact")
+})
 
 
 

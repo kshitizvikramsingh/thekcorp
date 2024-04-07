@@ -1,5 +1,5 @@
 html,h1 { 
-    font-family: century-gothic;
+    font-family: century-gothic, sans-serif;
     font-weight: 600;
     font-style: normal;
   }
@@ -20,6 +20,6 @@ html,h1 {
   }
 
   #footer{
-    position: absolute;
+    
     bottom: 0;
   }
