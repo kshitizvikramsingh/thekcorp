@@ -32,6 +32,9 @@ app.get("/team",(req,res)=>{
 app.get("/contact",(req,res)=>{
     res.render("contact")
 })
+app.get("/aws-insights-app",(req,res)=>{
+    res.render("aws-insights-app.ejs")
+})
 
 
 
